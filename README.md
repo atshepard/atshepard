@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: All my pets are named after Greek myths, which is a special love of mine (I studied Classics in college).
 
+
+- Right below you'll find some of my favorite public projects: my solo work is on the left, group work on the right!
+
