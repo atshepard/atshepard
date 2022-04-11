@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on an app to help van-lifers and other nomads who live alternative lifestyles stay safe while on the road.
+- 🔭 I’m currently working on an app to help van-lifers, nomads and others who live alternative lifestyles stay safe while on the road.
 - 💬 Ask me about my Dungeons and Dragons campaign...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/atshepard/)
 - 😄 Pronouns: she/her
