@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: All my pets are named after Greek myths, which is a special love of mine (I studied Classics in college).
 
 
-- Right below you'll find some of my favorite public projects: my solo work is on the left, group work on the right!
+- ⬇️ Just below you'll find some of my favorite recent projects: my solo work is on the left, group work on the right! All of these, with the exception of project kain, are the result of 2 day code sprints. 
 
